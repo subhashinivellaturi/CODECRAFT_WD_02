@@ -11,3 +11,9 @@ A simple and stylish stopwatch built using JavaScript.
 ## 🔧 Installation
 1. Clone the repository:
 git clone https://github.com/subhashinivellaturi/CODECRAFT_WD_02.git
+
+2. Open `index.html` in a browser.
+
+## 📜 License
+This project is licensed under the MIT License.
+
